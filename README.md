@@ -1,4 +1,5 @@
 # JPMorgan Chase & Co. - FinTech Unit 1 Case Study
+![Picture1.jpg](/images/Picture1.jpg)
 ## **Domian - Payments/Billing**
 
 ### **Overview and Origin**
