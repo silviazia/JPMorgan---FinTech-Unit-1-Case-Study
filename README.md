@@ -23,6 +23,10 @@
 * Umar Farooq, the CEO of Onyx, said, "the bank is also eyeing using blockchain to send digital versions of paper checks and save banks 75% of the costs currently needed to send and process these payments". 
 * Since the lauch of JPM coin in summer 2019, they became the first global bank to design a network that facilitates instantaneous payments using **blockchain technology**. A technology enabling 24/7, business-to-business money movement by unveiling JPM Coin. 
 * JPM Coin is a permissioned blockchain that has a shared ledger system serves as a payment rail and deposit account ledger. Using the permissioned shared ledger system, participating J.P. Morgan clients can transfer US Dollars held on deposit with JPM.  
+
+### **Landscape**
+![Picture2.jpg](/images/Picture2.jpg)
+
 * It also facilitates real-time value movement, help resolving the common hurdles of traditional cross-border payments.
 * As part of Onyx by J.P. Morgan, JPM Coin is committed to innovation within the financial services industry. 
 * JPM Coin seeks to address the complex challenges of cross border payments and help simplify its clients’ money moving needs through next generation corporate treasury services.
