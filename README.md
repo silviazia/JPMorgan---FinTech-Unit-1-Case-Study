@@ -1,6 +1,6 @@
 # JPMorgan Chase & Co. - FinTech Unit 1 Case Study
 ![Picture1.jpg](/images/Picture1.jpg)
-## **Domian - Payments/Billing**
+## **Domian - Payments**
 
 ### **Overview and Origin**
 
@@ -38,8 +38,19 @@
 
 ### **Landscape**
 
-* As mentioned above, JP Morgan chase & co is a **Bank** or financial institution that dominates globally in investment banking, asset management, private banking, private wealth management, and treasury services divisions.  
-* Banks or financial institutions face challenges/disruption like every other domain. Over the past 10 years, they have faced the fallout from the global financial crisis (GFC), regulatory reforms, the birth of new competitors, and now a global pandemic. To weather the current storm and build greater resilience, they must become instinctive.
+* As mentioned above, JP Morgan chase & co is a **Bank** or financial institution that dominates globally in investment banking, asset management, private banking, private wealth management, and treasury services divisions.
+* Banks face challenges/disruption like every other domain. Over the past 10 years, they have been affected by the global financial crisis (GFC), regulatory reforms, rise of new competitors constantly, and currently they are facing a global pandemic. To outlast the current storm and develop greater resilience for future, banks must become instinctive. 
+* Mark Sullivan – a Global Business Leader of ‘Banking and Capital Markets, Genpact’ quoted in Genpact report, "Banks will need to compete with the likes of Amazon on customer experience, while also offering something deeper, be it through relationships and service, boosting businesses and communities, or taking a stand on global issues to engender trust. This is how they will transition from offering financial services to enabling financial betterment".
+  * Banks used to be a place where clients value the experience interacting with employees and vice versa. 
+  * However, as human knowledge meets artificial intelligence and more machines entering the workforce replacing human emplyees, number of jobs are disappearing and new ones     are created.
+* It is expecetd that, harnessing the combination of technological and human power to the best way possible, banks that sustain and thrive in the coming five years will need to be better in every sense. Hence, maintaining the human touch as a key issue, banks can reskill their people to work alongside tech to reach the best possible outcomes.
+* JPM is leading the way to harnessing this combination.  
+ 
+*Competitors or Threats
+
+* In today's evolving FinTech environment, Banks are in constant threat to compete with the likes of Google, Apple, Facebook and Amazon (GAFA). 
+* JPM's major competitors include Citi, Goldman Sachs, Bank of America, Morgan Stanley, Capital One, Credit Suisse , Fidelity Investments, Wells Fargo, American Express, HSBC.
+###### Major competitors of JPM
 
 
 
@@ -47,6 +58,6 @@
 
 * JP Morgan chase & Co's position as a global leader in digital treasury and payments has been recognized with multiple No.1 rankings for cash management, innovation, digital capabilities and quality of advice in the 2020.
 * It is also ranked number 1 in overall customer satisfaction, equity offerings and transactions/payments processing. 
-*  
+* 
 
 
