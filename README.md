@@ -21,16 +21,27 @@
 * It was built on [Quorum](https://www.coindesk.com/jpmorgan-ethereum-blockchain-quorum) a private version of Ethereum developed by the bank. However, it was acquired by  ConsenSys (a development firm).
 * According to CNBC report, JPM's blockchain-based "Interbank Information Network" is rebranding as **Liink** which will soon launch as a way to validate payments before they are sent. You can learn more about JPM's Liink [Here](https://www.jpmorgan.com/onyx/liink). 
 * Umar Farooq, the CEO of Onyx, said, "the bank is also eyeing using blockchain to send digital versions of paper checks and save banks **75%** of the costs currently needed to send and process these payments". 
+
+***Advantages of the technology JPM introduced**  
+ 
 * Since the lauch of JPM coin in summer 2019, they became the first global bank to design a network that facilitates instantaneous payments using **blockchain technology**. A technology enabling 24/7, business-to-business money movement by unveiling JPM Coin. 
-* JPM Coin is a permissioned blockchain that has a shared ledger system serves as a payment rail and deposit account ledger. Using the permissioned shared ledger system, participating J.P. Morgan clients can transfer US Dollars held on deposit with JPM.  
-* * It also facilitates real-time value movement, help resolving the common hurdles of traditional cross-border payments.
-* As part of Onyx by J.P. Morgan, JPM Coin is committed to innovation within the financial services industry. 
-* JPM Coin seeks to address the complex challenges of cross border payments and help simplify its clients’ money moving needs through next generation corporate treasury services.
-* J.P. Morgan’s ongoing mission to develop cutting edge technology for the future of the financial system.
-* J.P. Morgan’s position as a global leader in digital treasury and payments has been recognized with multiple No.1 rankings for cash management, innovation, digital capabilities and quality of advice in the 2020 
+* JPM Coin is a permissioned blockchain that has a shared ledger system serves as a payment rail and deposit account ledger. Using the permissioned shared ledger system, JPM clients can transfer US Dollars held on deposit with JPM.  
+  * As JPM coin facilitates real-time value movement, it easily resolves the common hurdles of traditional cross-border payments.
+  * As part of Onyx by JP Morgan, JPM Coin is committed to innovation within the financial services industry. Check out this short video to learn a bit more about JPM coin [Onyx CEO on JPM Coin](https://www.youtube.com/watch?v=PBA46dil9nk).
+  * It seeks to address the complex challenges of cross border payments and help simplify its clients’ money moving needs through next generation corporate treasury services.
+  
+***Mission**
+
+* JP Morgan's ongoing mission is to develop cutting edge technology to help their clients to experience better future in the financial system.
 
 ### **Landscape**
 ### Financial Highlights of JPM, 2019
 ![Picture2.jpg](/images/Picture2.jpg)
+
+
+
+### **Results**
+
+* JPM's position as a global leader in digital treasury and payments has been recognized with multiple No.1 rankings for cash management, innovation, digital capabilities and quality of advice in the 2020 
 
 
