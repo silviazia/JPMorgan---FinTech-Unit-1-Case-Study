@@ -61,8 +61,16 @@
 
 ### **Results**
 
-* JP Morgan chase & Co's position as a global leader in digital treasury and payments has been recognized with multiple No.1 rankings for cash management, innovation, digital capabilities and quality of advice in the 2020.
-* It is also ranked number 1 in overall customer satisfaction, equity offerings and transactions/payments processing. 
-* 
+* Since its debut, JPM coin's foray into the crypto market has been hailed as a game changer, especially when it comes to improving the mainstream perception of the digital asset industry as a whole.
+* JP Morgan seems to have finally delivered on its promise of building a solution that could potentially save the global finance industry hundreds of millions of dollars in peripheral costs such as processing charges, high tax fees and more.
+* Although JPM is one of the biggest players operating within the global payments landscape, with the firm reportedly facilitating transfers in excess of $6 trillion across more than 100 countries on a daily basis, the move will most likely fail to have any sort of major impact on market. Especially because thier payment network is sealed off from those not fungible with them.
+  * However, the move does represent a further step toward the mainstream adoption of crypto and technology, which is ready for real-time, industrialized use.
+  * Additionally, according to Paul Brody - principal & global innovation leader, Earnst & Young - the entry of JPM coin helps number of enterprises to reduce cost of running 
+    a cross-border business deal by making a part of a fully digital business contracts, for their business to business payments. That is quite remarkable. 
+ * Check out the performance of JPM in comparison with its major competitors [Here](https://csimarket.com/stocks/compet_glance.php?code=JPM)
+ 
+ ### **Recommendations**
+ 
+ * 
 
 
