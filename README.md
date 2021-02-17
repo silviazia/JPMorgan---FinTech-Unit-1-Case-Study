@@ -66,11 +66,32 @@
 * Although JPM is one of the biggest players operating within the global payments landscape, with the firm reportedly facilitating transfers in excess of $6 trillion across more than 100 countries on a daily basis, the move will most likely fail to have any sort of major impact on market. Especially because thier payment network is sealed off from those not fungible with them.
   * However, the move does represent a further step toward the mainstream adoption of crypto and technology, which is ready for real-time, industrialized use.
   * Additionally, according to Paul Brody - principal & global innovation leader, Earnst & Young - the entry of JPM coin helps number of enterprises to reduce cost of running 
-    a cross-border business deal by making a part of a fully digital business contracts, for their business to business payments. That is quite remarkable. 
+    a cross-border business deal significantly by making a part of a fully digital business contracts, for their business to business payments. That is quite remarkable. 
+  * The use of the blockchain dramatically reduces the settlement time as well. 
  * Check out the performance of JPM in comparison with its major competitors [Here](https://csimarket.com/stocks/compet_glance.php?code=JPM)
  
  ### **Recommendations**
  
- * 
+ * JPM is the best amongst the best because they can do it all. They have some of the best mobile banking and finance technology. 
+ * As a front runner in digital treasury and payments, JPM has been recognized with multiple **No.1** rankings for cash management, innovation, digital capabilities and quality of advice in **the 2020 Greenwich Associates U.S. Large Corporate Cash Management study, Excellence Awards and Digital Banking Benchmark study**.
+ * Their digital-first products also recognised as the best in the business.  
+ * However, currently JPM coin is only available for institutional clients, i.e. brokers, dealers, banks etc. It can not be used by anyone or by public like cryptocurrency. Because of this difference, many experts have doubts whether JPM coin is truly a cryptocurrency! They argue that JPM coin could very much be a digital coin. Hence, the bank should plan to offer JPM coin to public as well and soon to stop the disbelief of the experts. Additionally, JPM should improve its presence in the M&A advisory and equity underwriting further in comparison with Goldman Sachs.  
+ * But based on my research, I personally belive that, as one of the most trusted and elite investment banks, JP Morgan can be referred to as swiss army knife of banks like McGyver!  
 
+### **Appendage**
+
+* [](https://www.jpmorgan.com/insights/research/electric-vehicles)
+* [](https://www.jpmorgan.com/news/greenwich-associates-news-story?source=wp_os_li_greenwich0121)
+* [](https://www.britannica.com/biography/J-P-Morgan)
+* [](https://www.jpmorgan.com/merchant-services/insights/reports/canada-2020)
+* [](https://www.jpmorgan.com/solutions/cib/news/digital-coin-payments)
+* [](https://www.thetradenews.com/jp-morgan-invests-machine-learning-research-analysis-firm-limeglass/)
+* [](https://www.coindesk.com/jpmorgans-jpm-coin-is-live-exec-says)
+* [](https://www.jpmorgan.com/onyx/index)
+* [](https://www.cfamontreal.org/static/uploaded/Files/Presentation/19-02-07-David_Nault_Rendez-Vous-Fintech_CFA-Montreal.pdf)
+* [](https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/annualreport-2019.pdf)
+* [](https://www.genpact.com/uploads/files/genpact-banking-in-the-age-of-instinct-report.pdf)
+* Garraty, John A. (1960). "The United States Steel Corporation Versus Labor: the Early Years". Labor History. 1 (1): 3–38.
+* Timmons, Heather (2002). "J.P. Morgan: Pierpont would not approve". BusinessWeek. 
+* "Morganization: How Bankrupt Railroads were Reorganized". Archived from the original on March 14, 2006. Retrieved January 5, 2007.
 
