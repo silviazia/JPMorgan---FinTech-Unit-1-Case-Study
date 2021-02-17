@@ -82,15 +82,15 @@
 
 * https://www.jpmorgan.com/insights/research/electric-vehicles
 * https://www.jpmorgan.com/news/greenwich-associates-news-story?source=wp_os_li_greenwich0121
-* [](https://www.britannica.com/biography/J-P-Morgan)
-* [](https://www.jpmorgan.com/merchant-services/insights/reports/canada-2020)
-* [](https://www.jpmorgan.com/solutions/cib/news/digital-coin-payments)
-* [](https://www.thetradenews.com/jp-morgan-invests-machine-learning-research-analysis-firm-limeglass/)
-* [](https://www.coindesk.com/jpmorgans-jpm-coin-is-live-exec-says)
-* [](https://www.jpmorgan.com/onyx/index)
-* [](https://www.cfamontreal.org/static/uploaded/Files/Presentation/19-02-07-David_Nault_Rendez-Vous-Fintech_CFA-Montreal.pdf)
-* [](https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/annualreport-2019.pdf)
-* [](https://www.genpact.com/uploads/files/genpact-banking-in-the-age-of-instinct-report.pdf)
+* https://www.britannica.com/biography/J-P-Morgan
+* https://www.jpmorgan.com/merchant-services/insights/reports/canada-2020
+* https://www.jpmorgan.com/solutions/cib/news/digital-coin-payments
+* https://www.thetradenews.com/jp-morgan-invests-machine-learning-research-analysis-firm-limeglass/
+* https://www.coindesk.com/jpmorgans-jpm-coin-is-live-exec-says
+* https://www.jpmorgan.com/onyx/index
+* https://www.cfamontreal.org/static/uploaded/Files/Presentation/19-02-07-David_Nault_Rendez-Vous-Fintech_CFA-Montreal.pdf
+* https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/annualreport-2019.pdf
+* https://www.genpact.com/uploads/files/genpact-banking-in-the-age-of-instinct-report.pdf
 * Garraty, John A. (1960). "The United States Steel Corporation Versus Labor: the Early Years". Labor History. 1 (1): 3–38.
 * Timmons, Heather (2002). "J.P. Morgan: Pierpont would not approve". BusinessWeek. 
 * "Morganization: How Bankrupt Railroads were Reorganized". Archived from the original on March 14, 2006. Retrieved January 5, 2007.
