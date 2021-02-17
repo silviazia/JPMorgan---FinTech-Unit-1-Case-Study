@@ -38,11 +38,15 @@
 
 ### **Landscape**
 
+* As mentioned above, JP Morgan chase & co is a **Bank** or financial institution that dominates globally in investment banking, asset management, private banking, private wealth management, and treasury services divisions.  
+* Banks or financial institutions face challenges/disruption like every other domain. Over the past 10 years, they have faced the fallout from the global financial crisis (GFC), regulatory reforms, the birth of new competitors, and now a global pandemic. To weather the current storm and build greater resilience, they must become instinctive.
 
 
 
 ### **Results**
 
-* JPM's position as a global leader in digital treasury and payments has been recognized with multiple No.1 rankings for cash management, innovation, digital capabilities and quality of advice in the 2020 
+* JP Morgan chase & Co's position as a global leader in digital treasury and payments has been recognized with multiple No.1 rankings for cash management, innovation, digital capabilities and quality of advice in the 2020.
+* It is also ranked number 1 in overall customer satisfaction, equity offerings and transactions/payments processing. 
+*  
 
 
