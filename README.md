@@ -80,8 +80,8 @@
 
 ### **Appendage**
 
-* [](https://www.jpmorgan.com/insights/research/electric-vehicles)
-* [](https://www.jpmorgan.com/news/greenwich-associates-news-story?source=wp_os_li_greenwich0121)
+* https://www.jpmorgan.com/insights/research/electric-vehicles
+* https://www.jpmorgan.com/news/greenwich-associates-news-story?source=wp_os_li_greenwich0121
 * [](https://www.britannica.com/biography/J-P-Morgan)
 * [](https://www.jpmorgan.com/merchant-services/insights/reports/canada-2020)
 * [](https://www.jpmorgan.com/solutions/cib/news/digital-coin-payments)
