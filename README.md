@@ -12,8 +12,8 @@
 * Morgan had many partners over the years, such as George W. Perkins – an American politician and businessman - but he always remained firmly in charge.
 * JPMorgan Chase & Co. (JPM) is a leading global financial services firm with assets of $2.7 trillion and operations worldwide and a front runner in digital innovation.
 * In early 2018, the announcement was made that JPMorgan Chase will deploy $1.75 billion in philanthropic capital around the world by 2023. 
-###### Financial Highlights of JPN 2019
-             ![Picture2.jpg](/images/Picture2.jpg)
+###### Financial Highlights of JPM 2019
+[Picture2.jpg](/images/Picture2.jpg)
 
 ### **Business Activities**
  
