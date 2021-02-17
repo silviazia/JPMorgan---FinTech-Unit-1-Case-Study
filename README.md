@@ -52,8 +52,11 @@
 * JPM's major competitors include Citi, Goldman Sachs, Bank of America, Morgan Stanley, Capital One, Credit Suisse , Fidelity Investments, Wells Fargo, American Express, HSBC.
 ###### Major competitors of JPM
 ![Picture4.jpg](/images/Picture4.jpg)
+
 * As the first bank to own its cryptocurrency, JPM has a competitor, Ripple.
+
 ![Picture3.jpg](/images/Picture3.jpg)
+
 *You can also learn more about JPM's coin or cryptocurrency [Here](https://medium.com/@ben_longstaff/jp-morgan-just-became-the-first-bank-to-launch-a-stable-coin-16c924a9b36f) or [Here](https://www.leaprate.com/cryptocurrency/digital-currency/jp-morgan-has-its-own-cryptocurrency-a-competitor-to-ripple)
 
 ### **Results**
