@@ -22,7 +22,7 @@
 * According to CNBC report, JPM's blockchain-based "Interbank Information Network" is rebranding as **Liink** which will soon launch as a way to validate payments before they are sent. You can learn more about JPM's Liink [Here](https://www.jpmorgan.com/onyx/liink). 
 * Umar Farooq, the CEO of Onyx, said, "the bank is also eyeing using blockchain to send digital versions of paper checks and save banks **75%** of the costs currently needed to send and process these payments". 
 
-***Advantages of the technology JPM introduced**  
+*Advantages of the technology JPM introduced
  
 * Since the lauch of JPM coin in summer 2019, they became the first global bank to design a network that facilitates instantaneous payments using **blockchain technology**. A technology enabling 24/7, business-to-business money movement by unveiling JPM Coin. 
 * JPM Coin is a permissioned blockchain that has a shared ledger system serves as a payment rail and deposit account ledger. Using the permissioned shared ledger system, JPM clients can transfer US Dollars held on deposit with JPM.  
@@ -30,12 +30,12 @@
   * As part of Onyx by JP Morgan, JPM Coin is committed to innovation within the financial services industry. Check out this short video to learn a bit more about JPM coin [Onyx CEO on JPM Coin](https://www.youtube.com/watch?v=PBA46dil9nk).
   * It seeks to address the complex challenges of cross border payments and help simplify its clients’ money moving needs through next generation corporate treasury services.
   
-***Mission**
+*Mission
 
 * JP Morgan's ongoing mission is to develop cutting edge technology to help their clients to experience better future in the financial system.
 
 ### **Landscape**
-### Financial Highlights of JPM, 2019
+###Financial Highlights of JPM, 2019
 ![Picture2.jpg](/images/Picture2.jpg)
 
 
